@@ -75,7 +75,7 @@ The analysis shows a strong positive relationship between temperature and sales.
 
 ### Temperature vs Sales
 
-![Temperature vs Sales](Chart.png)
+![Temperature vs Sales](Tempreature_vs_Sales.png)
 
 ---
 
@@ -141,7 +141,7 @@ Predicted Ice Cream Sales:
 
 The following graph compares actual sales values with the model's predicted values.
 
-![Actual vs Predicted Sales](Chart.png)
+![Actual vs Predicted Sales](Actual_vs_Predicted.png)
 
 The closer the points are to the **Perfect Fit** line, the closer the predictions are to the actual values.
 
