@@ -157,6 +157,8 @@ Ice-Cream-Sales-Prediction/
 ├── train.ipynb
 ├── Chart.png
 └── README.md
+└── Tempreature_vs_Sales.png
+└── Actual_vs_Predicted.png
 ```
 
 ---
